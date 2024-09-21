@@ -1,0 +1,8 @@
+.cm-blockid {
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.cm-blockid:hover {
+	text-decoration: underline;
+}

@@ -1,0 +1,10 @@
+{
+	"id": "return-to-anki",
+	"name": "Return to Anki",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "在 Obsidian 中点击 Anki 卡片 ID 直接打开对应的 Anki 卡片。支持编辑模式,提供悬停高亮,无需额外配置。",
+	"author": "Peingxious",
+	"authorUrl": "https://github.com/yourusername",
+	"isDesktopOnly": false
+}
